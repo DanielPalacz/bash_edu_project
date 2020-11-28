@@ -1,0 +1,1 @@
+# bash_edu_project
